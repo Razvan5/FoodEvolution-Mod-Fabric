@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": { "model": "foodevo:block/pot" },
+    "facing=north": { "model": "foodevo:block/pot" },
+    "facing=south": { "model": "foodevo:block/pot", "y":  180},
+    "facing=west": { "model": "foodevo:block/pot", "y":  270},
+    "facing=east": { "model": "foodevo:block/pot", "y":  90}
+  }
+}

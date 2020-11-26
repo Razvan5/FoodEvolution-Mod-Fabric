@@ -1,0 +1,14 @@
+{
+  "item.foodevo.parsnip":"Parsnip",
+  "item.foodevo.chilli_pepper":"Chilli Pepper",
+  "item.foodevo.fresh_water": "Fresh Water",
+
+  "block.foodevo.fertilized_dirt": "Fertilized Dirt",
+  "block.foodevo.pot": "Pot",
+  "block.foodevo.example_chest": "Example Chest Block",
+
+  "itemGroup.foodevo": "Food World",
+
+  "container.example_chest": "Example Chest",
+  "container.pot":"Pot"
+}
